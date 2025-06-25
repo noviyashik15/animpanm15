@@ -1,7 +1,7 @@
 *, *::after, *::before {
   box-sizing: border-box;
 }
-.spinner { margin-left: 40rem; margin-top: 16rem;
+.spinner { margin-left: 5rem; margin-top: 15rem;
   width: 200px;
   height: 200px;
   display: flex;
